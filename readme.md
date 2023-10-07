@@ -6,7 +6,7 @@ Welcome to the Text Art Collection repository! This repository is dedicated to c
 
 ### Folder and File Naming Convention
 
-1. Create a folder with the name of your text art. This folder will contain all related files.
+1. Create a folder with the name of your text art. This folder will contain all related files. The art should only include ascii characters.
 
 2. The main text art file should be named `art.txt`.
 
@@ -25,5 +25,3 @@ Include a `metadata.json` file in your folder to provide essential information a
   "description": "A brief description of your text art"
 }
 ```
-
-
